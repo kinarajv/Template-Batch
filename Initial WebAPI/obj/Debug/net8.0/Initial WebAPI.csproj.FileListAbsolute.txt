@@ -1,0 +1,33 @@
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\bin\Debug\net8.0\appsettings.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\bin\Debug\net8.0\Initial WebAPI.exe
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\bin\Debug\net8.0\Initial WebAPI.deps.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\bin\Debug\net8.0\Initial WebAPI.runtimeconfig.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\bin\Debug\net8.0\Initial WebAPI.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\bin\Debug\net8.0\Initial WebAPI.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\Initial WebAPI.csproj.AssemblyReference.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\Initial WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\Initial WebAPI.AssemblyInfoInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\Initial WebAPI.AssemblyInfo.cs
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\Initial WebAPI.csproj.CoreCompileInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\Initial WebAPI.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\Initial WebAPI.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Initial WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Initial WebAPI.props
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Initial WebAPI.props
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Initial WebAPI.props
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\scopedcss\bundle\Initial WebAPI.styles.css
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\Initial .440691A3.Up2Date
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\Initial WebAPI.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\refint\Initial WebAPI.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\Initial WebAPI.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\Initial WebAPI.genruntimeconfig.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Initial WebAPI\obj\Debug\net8.0\ref\Initial WebAPI.dll

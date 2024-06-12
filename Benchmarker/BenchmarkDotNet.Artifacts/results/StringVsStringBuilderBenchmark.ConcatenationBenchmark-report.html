@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>StringVsStringBuilderBenchmark.ConcatenationBenchmark-20240612-070919</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.13.12, Windows 11 (10.0.22631.3593/23H2/2023Update/SunValley3)
+AMD Ryzen 9 5900HS with Radeon Graphics, 1 CPU, 16 logical and 8 physical cores
+.NET SDK 8.0.206
+  [Host]     : .NET 8.0.6 (8.0.624.26715), X64 RyuJIT AVX2
+  DefaultJob : .NET 8.0.6 (8.0.624.26715), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method              </th><th>NumIterations</th><th>Mean      </th><th>Error    </th><th>StdDev   </th><th>Median    </th><th>Gen0 </th><th>Gen1 </th><th>Gen2 </th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>StringConcatenation</td><td>10</td><td>212.5 ns</td><td>8.63 ns</td><td>25.31 ns</td><td>208.8 ns</td><td>0.1950</td><td>-</td><td>-</td><td>1.59 KB</td>
+</tr><tr><td>StringBuilderConcatenation</td><td>10</td><td>266.0 ns</td><td>9.50 ns</td><td>27.72 ns</td><td>263.8 ns</td><td>0.1383</td><td>-</td><td>-</td><td>1.13 KB</td>
+</tr><tr><td>StringConcatenation</td><td>1000</td><td>1,047,718.6 ns</td><td>50,446.64 ns</td><td>146,354.84 ns</td><td>987,389.7 ns</td><td>1554.6875</td><td>91.7969</td><td>-</td><td>12732.38 KB</td>
+</tr><tr><td>StringBuilderConcatenation</td><td>1000</td><td>7,763.5 ns</td><td>294.02 ns</td><td>862.32 ns</td><td>7,556.8 ns</td><td>7.0724</td><td>0.5875</td><td>-</td><td>57.81 KB</td>
+</tr><tr><td>StringConcatenation</td><td>10000</td><td>125,608,435.4 ns</td><td>2,420,279.94 ns</td><td>5,891,295.87 ns</td><td>124,624,330.0 ns</td><td>374400.0000</td><td>360400.0000</td><td>358400.0000</td><td>1270019.97 KB</td>
+</tr><tr><td>StringBuilderConcatenation</td><td>10000</td><td>224,214.5 ns</td><td>4,448.71 ns</td><td>8,464.13 ns</td><td>224,906.4 ns</td><td>76.9043</td><td>76.9043</td><td>76.9043</td><td>521.78 KB</td>
+</tr></tbody></table>
+</body>
+</html>

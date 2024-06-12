@@ -1,0 +1,11 @@
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\StringBuilderChanges\bin\Debug\net8.0\StringBuilderChanges.deps.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\StringBuilderChanges\bin\Debug\net8.0\StringBuilderChanges.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\StringBuilderChanges\bin\Debug\net8.0\StringBuilderChanges.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\StringBuilderChanges\obj\Debug\net8.0\StringBuilderChanges.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\StringBuilderChanges\obj\Debug\net8.0\StringBuilderChanges.AssemblyInfoInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\StringBuilderChanges\obj\Debug\net8.0\StringBuilderChanges.AssemblyInfo.cs
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\StringBuilderChanges\obj\Debug\net8.0\StringBuilderChanges.csproj.CoreCompileInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\StringBuilderChanges\obj\Debug\net8.0\StringBuilderChanges.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\StringBuilderChanges\obj\Debug\net8.0\refint\StringBuilderChanges.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\StringBuilderChanges\obj\Debug\net8.0\StringBuilderChanges.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\StringBuilderChanges\obj\Debug\net8.0\ref\StringBuilderChanges.dll

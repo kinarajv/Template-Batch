@@ -1,0 +1,53 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 2 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet  restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in C:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Benchmarker\bin\Release\net8.0\1a844e9d-a6a0-462d-8e42-4a823a07c468
+// command took 1.59 sec and exited with 0
+// start dotnet  build -c Release --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in C:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Benchmarker\bin\Release\net8.0\1a844e9d-a6a0-462d-8e42-4a823a07c468
+// command took 3.34 sec and exited with 0
+// ***** Done, took 00:00:05 (5.09 sec)   *****
+// Found 2 benchmarks:
+//   Benchmarker.BenchmarkStringChanges: DefaultJob
+//   Benchmarker.BenchmarkStringBuilderChanges: DefaultJob
+
+Setup power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: High performance)
+// **************************
+// Benchmark: Benchmarker.BenchmarkStringChanges: DefaultJob
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet 1a844e9d-a6a0-462d-8e42-4a823a07c468.dll --anonymousPipes 2944 2948 --benchmarkName Benchmarker.Benchmarker.BenchmarkStringChanges --job Default --benchmarkId 0 in C:\Users\kinar\OneDrive\File Lama\Desktop\Template Batch\Benchmarker\bin\Release\net8.0\1a844e9d-a6a0-462d-8e42-4a823a07c468\bin\Release\net8.0
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// BenchmarkDotNet v0.13.12
+// Runtime=.NET 8.0.6 (8.0.624.26715), X64 RyuJIT AVX2
+// GC=Concurrent Workstation
+// HardwareIntrinsics=AVX2,AES,BMI1,BMI2,FMA,LZCNT,PCLMUL,POPCNT VectorSize=256
+// Job: DefaultJob
+
+OverheadJitting  1: 1 op, 306300.00 ns, 306.3000 us/op
+WorkloadJitting  1: 1 op, 70093200.00 ns, 70.0932 ms/op
+
+WorkloadPilot    1: 2 op, 660400300.00 ns, 330.2002 ms/op
+
+WorkloadWarmup   1: 2 op, 1531322900.00 ns, 765.6614 ms/op
+WorkloadWarmup   2: 2 op, 1784348900.00 ns, 892.1744 ms/op
+WorkloadWarmup   3: 2 op, 1995258500.00 ns, 997.6292 ms/op
+WorkloadWarmup   4: 2 op, 2980167200.00 ns, 1.4901 s/op
+WorkloadWarmup   5: 2 op, 4103320400.00 ns, 2.0517 s/op
+WorkloadWarmup   6: 2 op, 5592915500.00 ns, 2.7965 s/op
+WorkloadWarmup   7: 2 op, 6246568200.00 ns, 3.1233 s/op
+WorkloadWarmup   8: 2 op, 7158953300.00 ns, 3.5795 s/op
+WorkloadWarmup   9: 2 op, 8677018900.00 ns, 4.3385 s/op
+WorkloadWarmup  10: 2 op, 10253195500.00 ns, 5.1266 s/op
+WorkloadWarmup  11: 2 op, 11397090800.00 ns, 5.6985 s/op
+WorkloadWarmup  12: 2 op, 12246778500.00 ns, 6.1234 s/op
+WorkloadWarmup  13: 2 op, 13325739800.00 ns, 6.6629 s/op
+WorkloadWarmup  14: 2 op, 14242412200.00 ns, 7.1212 s/op
+WorkloadWarmup  15: 2 op, 15235352900.00 ns, 7.6177 s/op
+WorkloadWarmup  16: 2 op, 16178062400.00 ns, 8.0890 s/op
+WorkloadWarmup  17: 2 op, 17407611800.00 ns, 8.7038 s/op
+WorkloadWarmup  18: 2 op, 18182758200.00 ns, 9.0914 s/op
+WorkloadWarmup  19: 2 op, 21333782500.00 ns, 10.6669 s/op
+WorkloadWarmup  20: 2 op, 28027226400.00 ns, 14.0136 s/op
